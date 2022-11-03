@@ -23,6 +23,8 @@ the 1st of March 2020 and the 30th of September 2022.
 
 * Simply visit the Python Jupyter Notebook 2022_inPython_SafeHavenHedgeAndDiversification_REGRESSION_V7.ipynb change the days at "Reading data from Yahoo Finance!" 
 to the desired period (currently working only for period between 01/Jan/2018 and 30/Sept/2022 due to manual download of both FTSE indexes for the UK and Italy):
-import datetime
-start = datetime.datetime(2018, 1, 1)
-end = datetime.datetime(2022, 9, 30)
+
+Change the following lines:
+
+* start = datetime.datetime(2018, 1, 1)
+* end = datetime.datetime(2022, 9, 30)
