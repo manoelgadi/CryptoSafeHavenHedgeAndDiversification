@@ -1,6 +1,4 @@
-# CryptoSafeHavenHedgeAndDiversification
-
-# CryptoGDelt2022
+# Repository of Safe haven, hedging and diversifier characteristics of heterogeneous cryptocurrencies against G7 and BRICS market indexes
 
 Cryptocurrency markets have experienced a large growth in recent years, together with an increase in the number and diversity of assets being traded. 
 Previous work has addressed the economic properties of Bitcoin with regards to their hedging or diversification properties. 
@@ -8,7 +6,7 @@ However, the surge of many alternatives, applications, and decentralized finance
 those properties including indexes from outside the big economies and the inclusion of a variety of cryptocurrencies and a look into the period 
 Pre-COVID and During-COVID.
 
-This is the repository supporting the Paper:Analyzing safe haven, hedging and diversifier characteristics of heterogeneous cryptocurrencies against G7 and BRICS market indexes
+This is the repository supporting the Paper: Analyzing safe haven, hedging and diversifier characteristics of heterogeneous cryptocurrencies against G7 and BRICS market indexes
 by Manoel Fernando Alonso Gadi and Miguel Angel Sicilia. 
 
 # Results:
