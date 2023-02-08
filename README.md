@@ -23,7 +23,7 @@ the 1st of March 2020 and the 30th of September 2022.
 
 # How to reproduce the creation of each of this files:
 
-* Simply visit the Python Jupyter Notebook 2022_inPython_SafeHavenHedgeAndDiversification_REGRESSION_V7.ipynb change the days at "Reading data from Yahoo Finance!" 
+* Simply visit the Python Jupyter Notebook __2022_inPython_SafeHavenHedgeAndDiversification_REGRESSION_V8.ipynb__ change the days at "Reading data from Yahoo Finance!" 
 to the desired period (currently working only for period between 01/Jan/2018 and 30/Sept/2022 due to manual download of both FTSE indexes for the UK and Italy) and __run all__:
 
 Change the following lines:
